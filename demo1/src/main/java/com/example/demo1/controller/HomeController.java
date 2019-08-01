@@ -11,6 +11,4 @@ public class HomeController {
 	public String getHomePage() {
 		return "health";
 	}
-
-	
 }
